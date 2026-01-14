@@ -1,0 +1,8 @@
+{
+  "name": "U Verse",
+  "description": "A secure student-focused social and academic platform for connecting, collaborating, and sharing academic resources.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
